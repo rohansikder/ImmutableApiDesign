@@ -1,5 +1,15 @@
 *ImmutableApiDesign:*
 
+### Deployment and Delivery:
+- The project is deployable via a single JAR file, `dop.jar`, executable from the command line.
+- Adheres to the specified packaging structure, including source code, JAR file, README, and JavaDocs.
+
+### UML Diagram:
+<img src="uml.png" alt="UML Diagram" width="400"/>
+
+### Documentation:
+- JavaDocs are provided for all public types and methods.
+
 **ExaminationPaper**
 
 - **Purpose** : Represents examination papers, incorporating strict validation rules.
